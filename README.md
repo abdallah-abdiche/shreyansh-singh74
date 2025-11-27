@@ -1,38 +1,11 @@
 <div align="center">
 
-| Frontend | Backend | Database | Tools & Platforms |
-|----------|----------|-----------|-------------------|
-| <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
-  </div>
-| <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" />
-  </div>
-| <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
-  </div>
-| <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" />
-  </div>
-|
+| Linux & Tools | Frontend | Backend | IDEs & Platforms | Database |
+|---------------|----------|---------|------------------|----------|
+| <img src="https://skillicons.dev/icons?i=linux,kali" height="40"/> | <img src="https://skillicons.dev/icons?i=html,css,js,react" height="40"/> | <img src="https://skillicons.dev/icons?i=php,laravel,java" height="40"/> | <img src="https://skillicons.dev/icons?i=vscode,idea,webstorm" height="40"/> | <img src="https://skillicons.dev/icons?i=mysql" height="40"/> |
 
 </div>
+
 
 <br><br>
 
