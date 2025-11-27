@@ -7,13 +7,12 @@
 </div>
 
 
-<br><br>
 
 <img src="https://raw.githubusercontent.com/abdallah-abdiche/abdallah-abdiche/output/snake.svg" alt="Snake animation" />
 
 <br><br>
 
-## 📬 Contact Me  
+
 <div align="center">
   <a href="https://discord.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" />
